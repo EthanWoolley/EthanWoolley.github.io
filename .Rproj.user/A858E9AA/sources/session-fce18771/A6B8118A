@@ -3,7 +3,7 @@
     "path": "~/Documents/Documents - Ethan’s MacBook Pro/Admin/Personal Website/EthanWoolley.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "3274346867",
+    "hash": "3133200472",
     "contents": "",
     "dirty": false,
     "created": 1679070492839.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "34:0",
-        "cursorPosition": "16,31",
+        "cursorPosition": "16,20",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1679073289,
+    "lastKnownWriteTime": 1679074668,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1679073289070,
+    "last_content_update": 1679074668059,
     "read_only": false,
     "read_only_alternatives": []
 }
