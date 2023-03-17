@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+  
+execute: 
+  freeze: true
+
+website:
+  title: "Ethan Woolley"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - file: "./achievements.qmd"
+        text: Achievements
+      
+    right: 
+      - icon: linkedin
+        href: www.linkedin.com
+      - icon: twitter
+        href: www.twitter.com
+format:
+  html:
+    theme: morph #lux
+    css: styles.css
+    toc: true
+
+editor: visual
+

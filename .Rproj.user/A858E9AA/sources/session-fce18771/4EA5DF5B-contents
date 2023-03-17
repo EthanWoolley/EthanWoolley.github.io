@@ -1,0 +1,20 @@
+---
+title: "About"
+about: 
+  template: jolla
+  image: Neville.jpg
+  image-width: 5cm
+  image-shape: round
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/EthanWoolley
+    - icon: linkedin
+      text: Linkedin
+      href: www.google.com
+    
+---
+Je suis ...
+
+##
+7 - 0

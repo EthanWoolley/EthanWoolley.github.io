@@ -1,0 +1,19 @@
+---
+title: "Ethan Woolley"
+---
+
+## News
+
+### My Website
+
+*This is my first website, featuring the following pages:*
+
+- point1
+- point2
+  - point2.1
+  - point2.2
+  
+```{r}
+# Any r code can be run in here
+```
+

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "achievements.html",
+    "href": "achievements.html",
+    "title": "My Achievements",
+    "section": "",
+    "text": "Here are my achievements:\n\n1\n2\n3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ethan Woolley",
+    "section": "",
+    "text": "This is my first website, featuring the following pages:\n\npoint1\npoint2\n\npoint2.1\npoint2.2\n\n\n\n# Any r code can be run in here"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Je suis …"
+  },
+  {
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "About",
+    "section": "",
+    "text": "7 - 0"
+  }
+]
